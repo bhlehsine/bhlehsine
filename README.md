@@ -1,16 +1,19 @@
-## Hi there 👋
+## Welcome to my github profit page👋
 
-<!--
-**bhlehsine/bhlehsine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨ _special_ ✨
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a data analyst: Microsoft excel,spss and power BI, 📊Data visualization, 📊 data cleaning , 📊data curation 
+
+I’m currently open to learning SQL, Tableau, Python
+
+I’m open for collaboration on data analysis
+
+I’m looking for help with programming
+
+You can reach me on twitter or instagram
+
+I love playing with data 📈 bringing insights to raw data
+
+
